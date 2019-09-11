@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/permission_handler-3.2.2" />
+      <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.3+4" />
+      <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/hosted/pub.flutter-io.cn/sqflite-1.1.6+4" />
+      <root url="file://$PROJECT_DIR$/../../../../../Android/env/flutter/.pub-cache/git/flutter_des-95a13789475e214dd1aedcc0c805433b3e3cad11" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
