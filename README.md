@@ -1,4 +1,4 @@
-1:Framwork层只存放Util相关工具类和slot层和View(FuctionStateFulBase)层
+1:属性层面，只放入通用属性相关适合于A，B，C类型的项目
 
 
 #使用方法
