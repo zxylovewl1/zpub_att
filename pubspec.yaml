@@ -17,6 +17,9 @@ dependencies:
   zpub_plugin:
         git:
           url: git://github.com/zxylovewl1/zpub_plugin.git
+  zpub_third:
+          git:
+            url: git://github.com/zxylovewl1/zpub_third.git
 
 dev_dependencies:
   flutter_test:
