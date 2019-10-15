@@ -127,6 +127,10 @@ class AttItemWidgetState extends State<AttItemWidget>
     {
       // 下拉框
       mController = new TextEditingController();
+      if (!CxTextUtil.isEmptyObject(widget.mValue))
+      {
+        mController.text = widget.mValue.toString();
+      }
       initPluginParam();
     }
   }
